@@ -16,6 +16,8 @@ We extract specific fields from the XML feed(such as title and url) and post tha
 
 - Twitter API Credentials: This area is commented in the code file, here is a link on how to grab your API details. https://python-twitter.readthedocs.io/en/latest/getting_started.html
 
+- 2022 Twitter API Update: Read the 2022 solution here which requires OAuth1 https://stackoverflow.com/questions/8389796/why-this-error-read-only-application-cannot-post
+
 - Change the XML Feed to parse: You will see a url in the code file under this line '#Set the XML File/Feed to pull'. Just replace the url.
 
 - Last note: Make sure the db.txt file exists even if its empty.
